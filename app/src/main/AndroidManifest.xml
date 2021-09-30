@@ -10,6 +10,27 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Skarepku">
         <activity
+            android:name=".yo6"
+            android:exported="true" />
+        <activity
+            android:name=".yo5"
+            android:exported="true" />
+        <activity
+            android:name=".yo4"
+            android:exported="true" />
+        <activity
+            android:name=".yo3"
+            android:exported="true" />
+        <activity
+            android:name=".yo2"
+            android:exported="true" />
+        <activity
+            android:name=".yo1"
+            android:exported="true" />
+        <activity
+            android:name=".skarepku"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
